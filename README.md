@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malcolmwimbley
 - 👀 Im into Gaming, Video Editing, Trading, Working Out
-- 🌱 I’m currently learning Advance NodeJS, MongoDBw, React
+- 🌱 I’m currently learning Advance NodeJS, MongoDB, React/Next
 - 💞️ I’m looking to collaborate on various Projects (Web, Mobile)
 - 📫 How to reach me TikTok/Twitter/Instagram @malcolmwimbley or malcolmwimbley@gmail.com
 
