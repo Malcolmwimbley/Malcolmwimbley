@@ -11,7 +11,7 @@ Coder/Gamer/Editor
 * 🤝  I'm open to collaborating on various projects (Web or Mobile)
 * ⚡  King of Call of Duty Sniping
 
-<a href="https://www.twitter.com/malcolmwimbley" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/malcolm_wimbley" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/malcolmwimbley?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/malcolmwimbley" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/malcolmwimbley?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/malcolmwimbley" target="_blank" rel="noreferrer"><img
