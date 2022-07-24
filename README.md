@@ -5,7 +5,7 @@ Coder/Gamer/Editor
 ------------------
 
 * 🌍  I'm based in Texas Somewhere
-* 🖥️  See my portfolio at [My Website](http://malcolmwimbley.com)
+* 🖥️  See my portfolio at [My Website](..)
 * ✉️  You can contact me at [malcolmwimbley@gmail.com](mailto:malcolmwimbley@gmail.com)
 * 🧠  I'm learning Currently Advance Node JS
 * 🤝  I'm open to collaborating on various projects (Web or Mobile)
